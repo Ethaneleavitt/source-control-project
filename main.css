@@ -8,3 +8,7 @@ h1 {
 h2 {
     border: solid purple 5px;
 }
+p {
+    color: aqua;
+    padding: 50 px;
+}
